@@ -1,17 +1,21 @@
+
+
+
 <?php
 function oboxfb_slider_post_type()
 {
 	$labels = array(
-		'name' => _x('Social Slider', 'post type general name','ocmx'),
-		'singular_name' => _x('Slide', 'post type singular name','ocmx'),
-		'add_new' => _x('Add Slide', 'social-slider','ocmx'),
-		'add_new_item' => __('Add New Slide','ocmx'),
+		// 'name' => _x('Social Slider', 'post type general name','ocmx'),
+		'name' => _x('荟Facebook幻灯片', 'post type general name','ocmx'),
+		'singular_name' => _x('幻灯片', 'post type singular name','ocmx'),
+		'add_new' => _x('Add 幻灯片', 'social-slider','ocmx'),
+		'add_new_item' => __('Add New 幻灯片','ocmx'),
 		'edit_item' => __('Edit ','ocmx'),
-		'new_item' => __('New Slider','ocmx'),
-		'view_item' => __('View Slider','ocmx'),
-		'search_items' => __('Search Sliders','ocmx'),
-		'not_found' =>  __('No sliders found','ocmx'),
-		'not_found_in_trash' => __('No sliders found in Trash','ocmx'),
+		'new_item' => __('New 幻灯片','ocmx'),
+		'view_item' => __('View 幻灯片','ocmx'),
+		'search_items' => __('Search 幻灯片','ocmx'),
+		'not_found' =>  __('No 幻灯片 found','ocmx'),
+		'not_found_in_trash' => __('No 幻灯片 found in Trash','ocmx'),
 		'parent_item_colon' => ''
 	);
 	$args = array(

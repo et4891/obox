@@ -6,7 +6,7 @@
 
 	$oboxfb_theme_options["facebook_tab_setup_options"] = array(
 		array(
-			'label' => 'Facebook Page Tab Setup',
+			'label' => '荟Facebook Page Tab Setup',
 			// 'description' => 'Follow these steps to put your store live in your Facebook Page Tab.',
 			'description' => '',
 			'name' => 'setup_video',

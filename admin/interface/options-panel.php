@@ -9,7 +9,7 @@
 				<div class="ocmx-container">
 					<div class="wrap">
 						<h2>
-							Social Commerce
+							荟Facebook
 							<div class="heading-sub-line">
 								Show your WooCommerce Shop on your facebook page tab. <strong>Version <?php echo OBOXFB_VER; ?></strong>
 							</div>

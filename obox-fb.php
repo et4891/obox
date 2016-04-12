@@ -58,8 +58,8 @@ add_action( 'plugins_loaded', 'begin_oboxfb', 0 );
 /* Add OCMX Menu Items */
 function oboxfb_add_admin() {
 	add_object_page(
-			__( 'Social Commerce', 'ocmx' ),
-			__( 'Social Commerce', 'ocmx' ),
+			__( '荟Facebook', 'ocmx' ),
+			__( '荟Facebook', 'ocmx' ),
 			'manage_options',
 			basename(__FILE__),
 			'oboxfb_general_options',

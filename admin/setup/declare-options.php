@@ -5,7 +5,7 @@
 	 */
 	$tabs = array(
 		array(
-			"option_header" => "Facebook Page Tab Setup",
+			"option_header" => "荟Facebook Tab Setup",
 			"use_function"  => "obox_fb_option_li",
 			"function_args" => "facebook_tab_setup_options",
 			"ul_class"      => "admin-block-list clearfix",
@@ -30,5 +30,5 @@
 		)
 	);
 
-	oboxfb_options_panel("General Options", $tabs, "Save Changes");
+	oboxfb_options_panel("General Options", $tabs, "ASave Changes");
 }
