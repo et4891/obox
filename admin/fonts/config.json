@@ -1,0 +1,28 @@
+{
+  "name": "oboxfb-icon-font",
+  "css_prefix_text": "oboxfb-icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "in76hg99crrkpcbz2rjnmgbiw74s72y0",
+      "css": "ok",
+      "code": 59392,
+      "src": "modernpics"
+    },
+    {
+      "uid": "06301c50d89b5d3e651bd07ebd6d7de7",
+      "css": "cancel",
+      "code": 59393,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "390d6d13398cbf8c8c3c5493f7d34088",
+      "css": "export",
+      "code": 59394,
+      "src": "entypo"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+
+.oboxfb-icon-ok:before { content: '\e800'; } /* '' */
+.oboxfb-icon-cancel:before { content: '\e801'; } /* '' */
+.oboxfb-icon-export:before { content: '\e802'; } /* '' */
